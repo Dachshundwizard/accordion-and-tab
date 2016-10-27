@@ -1,0 +1,18 @@
+#wrapper{
+    margin: 0 auto;
+    width: 960px;
+}
+
+#accordion_wrapper{
+    border: 2px solid lightblue;
+    border-radius: 10px;
+}
+
+    #accordion h3{
+        border-radius: 5px;
+    }
+
+#tabs{
+    border: 2px solid lightblue;
+    border-radius: 10px;
+}
